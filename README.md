@@ -1,4 +1,3 @@
-pip install python-telegram-bot --upgrade
 import asyncio
 import random
 from telegram import Update
